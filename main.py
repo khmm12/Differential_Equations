@@ -33,4 +33,4 @@ if __name__ == "__main__":
 	print()
 	main()
 	print()
-	input()
+	input('Press Enter to exit')
