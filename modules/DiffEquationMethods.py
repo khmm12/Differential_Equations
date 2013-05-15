@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+__author__ = "Maxim Khvatalin"
+__maintainer__ = "Maxim Khvatalin"
+__status__ = "Development"
+
+
 from modules import function_parse
 
 def frange(start, stop, step):

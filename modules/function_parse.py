@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from math import *
 
 def GetFunctionValue(function, x, y):

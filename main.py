@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+__author__ = "Maxim Khvatalin"
+__maintainer__ = "Maxim Khvatalin"
+__status__ = "Development"
+
+
 def main():
 	from modules import DiffEquationMethods
 	import re
